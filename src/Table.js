@@ -13,7 +13,7 @@ const Table = props => {
 
 export default Table
 
-const TableHeader = () => {
+const tableHeader = () => {
     return (
       <thead>
         <tr>
